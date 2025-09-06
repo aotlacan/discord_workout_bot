@@ -56,3 +56,9 @@ All Dat is saved locally in 'gym_data.json' and updates automatically when comma
 ## 💾 Data Storage
 - Workout minutes, gym role message ID, and leaderboard message ID are saved in `gym_data.json`.  
 - Data is automatically saved when commands are used and restored when the bot restarts.  
+
+## IMPORTANT NOTE
+
+You must make a '.env' file in your directory folder and add the code:
+
+'''DISCORD_TOKEN="ENTER YOUR DISCORD TOKEN HERE" ''' 
