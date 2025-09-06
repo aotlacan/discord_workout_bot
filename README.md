@@ -61,4 +61,5 @@ All Dat is saved locally in 'gym_data.json' and updates automatically when comma
 
 You must make a '.env' file in your directory folder and add the code:
 
-'''DISCORD_TOKEN="ENTER YOUR DISCORD TOKEN HERE" ''' 
+```env
+DISCORD_TOKEN="ENTER YOUR DISCORD TOKEN HERE"
